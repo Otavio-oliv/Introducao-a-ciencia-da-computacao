@@ -1,10 +1,10 @@
-# Introducao-a-ciencia-da-computacao 
+# 💡Introducao-a-ciencia-da-computacao 
 
 ## Professor 👨‍🏫
 
 Matéria dada por Prof. Iago Augusto de Carvalho
 
-## Material 📖
+## Material 2025/1 📖
 
 - 🚀 Introdução
 
